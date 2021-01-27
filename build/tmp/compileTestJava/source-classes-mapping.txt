@@ -12,3 +12,4 @@ hello/core/discount/RateDiscountPolicyTest.java
  hello.core.discount.RateDiscountPolicyTest
 beanfind/ApplicationContextSameBeanFindTest.java
  beanfind.ApplicationContextSameBeanFindTest
+ beanfind.ApplicationContextSameBeanFindTest$SameBeanConfig
