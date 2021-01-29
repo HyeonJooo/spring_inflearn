@@ -18,3 +18,5 @@ hello/core/beanfind/ApplicationContextBasicFindTest.java
  hello.core.beanfind.ApplicationContextBasicFindTest
 hello/core/beanfind/ApplicationContextInfoTest.java
  hello.core.beanfind.ApplicationContextInfoTest
+hello/core/beandefinition/BeanDefinitionTest.java
+ hello.core.beandefinition.BeanDefinitionTest
